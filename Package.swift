@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "UPCarouselFlowLayout",
     platforms: [
-        .iOS(.v10) // or v9 if needed
+        .iOS(.v16) // or v9 if needed
     ],
     products: [
         .library(
